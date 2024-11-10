@@ -1,7 +1,9 @@
+details: "darker"
+
 accent: "#007acc"
 background: "#f7f7f7"
 foreground: "#000000"
-details: "darker"
+
 terminal_colors:
   normal:
     black: "#000000"

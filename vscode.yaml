@@ -1,7 +1,9 @@
+details: lighter
+
 accent: "#0060c0"
 background: "#FFFFFF"
 foreground: "#2B2B2B"
-details: lighter
+
 terminal_colors:
   normal:
     black: "#2B2B2B"

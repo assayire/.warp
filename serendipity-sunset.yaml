@@ -1,10 +1,9 @@
-accent: "#8d8f9e"
-background_image:
-  path: "dusk.jpg"
-  opacity: 80
-background: "#1c1e2d"
-foreground: "#dee0ef"
 details: "darker"
+
+accent: "#8d8f9e"
+background: "#272938"
+foreground: "#dee0ef"
+
 terminal_colors:
   normal:
     black: "#363847"
@@ -14,13 +13,13 @@ terminal_colors:
     blue: "#709bbd"
     magenta: "#a392dc"
     cyan: "#a0b6e8"
-    white: "#c7c7c7"
+    white: "#dee0ef"
   bright:
-    black: "#6b6d7c"
+    black: "#363847"
     red: "#d1918f"
     green: "#aac9d4"
     yellow: "#edd5d6"
     blue: "#709bbd"
     magenta: "#a392dc"
     cyan: "#a0b6e8"
-    white: "#fffefe"
+    white: "#dee0ef"

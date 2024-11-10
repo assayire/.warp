@@ -1,11 +1,13 @@
-background_image:
-  path: prism.jpg
-  opacity: 50
+details: "darker"
 
 accent: "#e9e9e9"
 background: "#272935"
 foreground: "#eff0ea"
-details: "darker"
+
+background_image:
+  path: assets/prism.jpg
+  opacity: 50
+
 terminal_colors:
   normal:
     black: "#000000"
